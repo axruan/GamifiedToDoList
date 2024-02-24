@@ -21,6 +21,6 @@ How to use coins to exchange avatar part:
 Click on "Award" tab to go to Avatar page.  It shows user's existing avatar and available coins.  It also shows the library of all avatar parts with corresponding coins to get it.  For those avatar parts too expensive for the user, the part is grayed out and disabled.  Only when user earns enough coin, those avatar part will be available for selection. 
 
 
+https://github.com/axruan/GamifiedToDoList/assets/42079946/9039395f-cb57-4619-8cb5-955979813d13
 
-https://github.com/TheGatesOfParadise/GamifiedToDo/assets/109245867/851e7f7f-8940-49a1-99b4-14b5f02fcc5a
 
